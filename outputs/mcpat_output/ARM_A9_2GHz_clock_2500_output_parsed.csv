@@ -1,0 +1,66 @@
+Component,Metric,Unit,Value
+Processor,Area,mm^2,5.39698
+Processor,Peak Power,W,2.13479
+Processor,Total Leakage,W,0.108687
+Processor,Peak Dynamic,W,2.0261
+Processor,Subthreshold Leakage,W,0.0523094
+Processor,Gate Leakage,W,0.0563774
+Processor,Runtime Dynamic,W,3.22697
+ > Total Cores,Area,mm^2,4.84735
+ > Total Cores,Peak Dynamic,W,1.96448
+ > Total Cores,Subthreshold Leakage,W,0.0484486
+ > Total Cores,Gate Leakage,W,0.0501375
+ > Total Cores,Runtime Dynamic,W,1.33219
+ > Total First Level Directory,Area,mm^2,0.535391
+ > Total First Level Directory,Peak Dynamic,W,0.045212
+ > Total First Level Directory,Subthreshold Leakage,W,0.00370577
+ > Total First Level Directory,Gate Leakage,W,0.0060234
+ > Total First Level Directory,Runtime Dynamic,W,1.81276
+ > Total NoCs (Network/Bus),Area,mm^2,0.014239
+ > Total NoCs (Network/Bus),Peak Dynamic,W,0.0164048
+ > Total NoCs (Network/Bus),Subthreshold Leakage,W,0.000155022
+ > Total NoCs (Network/Bus),Gate Leakage,W,0.000216526
+ > Total NoCs (Network/Bus),Runtime Dynamic,W,0.0820239
+Core,Area,mm^2,2.42367
+Core,Peak Dynamic,W,0.982241
+Core,Subthreshold Leakage,W,0.0242243
+Core,Gate Leakage,W,0.0250688
+Core,Runtime Dynamic,W,1.33219
+ > Instruction Fetch Unit,Area,mm^2,0.524458
+ > Instruction Fetch Unit,Peak Dynamic,W,0.42022
+ > Instruction Fetch Unit,Subthreshold Leakage,W,0.0040912
+ > Instruction Fetch Unit,Gate Leakage,W,0.00274435
+ > Instruction Fetch Unit,Runtime Dynamic,W,0.411241
+ > Renaming Unit,Area,mm^2,0.0160659
+ > Renaming Unit,Peak Dynamic,W,0.0299393
+ > Renaming Unit,Subthreshold Leakage,e,5.90215
+ > Renaming Unit,Gate Leakage,W,0.000116732
+ > Renaming Unit,Runtime Dynamic,W,0.0535645
+ > Load Store Unit,Area,mm^2,0.373209
+ > Load Store Unit,Peak Dynamic,W,0.094401
+ > Load Store Unit,Subthreshold Leakage,W,0.00291231
+ > Load Store Unit,Gate Leakage,W,0.00223072
+ > Load Store Unit,Runtime Dynamic,W,0.223567
+ > Memory Management Unit,Area,mm^2,0.0235719
+ > Memory Management Unit,Peak Dynamic,W,0.0167601
+ > Memory Management Unit,Subthreshold Leakage,W,0.00020835
+ > Memory Management Unit,Runtime Dynamic,W,0.0577799
+ > Execution Unit,Area,mm^2,1.4265
+ > Execution Unit,Peak Dynamic,W,0.42092
+ > Execution Unit,Subthreshold Leakage,W,0.0159605
+ > Execution Unit,Runtime Dynamic,W,0.586035
+First Level Directory,Area,mm^2,0.267696
+First Level Directory,Peak Dynamic,W,0.022606
+First Level Directory,Subthreshold Leakage,W,0.00185288
+First Level Directory,Gate Leakage,W,0.0030117
+First Level Directory,Runtime Dynamic,W,1.81276
+BUSES,Area,mm^2,0.014239
+BUSES,Peak Dynamic,W,0.0164048
+BUSES,Subthreshold Leakage,W,0.000155022
+BUSES,Gate Leakage,W,0.000216526
+BUSES,Runtime Dynamic,W,0.0820239
+ > Bus,Area,mm^2,0.014239
+ > Bus,Peak Dynamic,W,0.0164048
+ > Bus,Subthreshold Leakage,W,0.000155022
+ > Bus,Gate Leakage,W,0.000216526
+ > Bus,Runtime Dynamic,W,0.0820239
