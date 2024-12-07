@@ -1,0 +1,178 @@
+McPAT (version 1.3 of Feb, 2015) is computing the target processor...
+ 
+Warning: icache array structure cannot satisfy throughput constraint.
+Warning: icache array structure cannot satisfy latency constraint.
+Warning: Branch Target Buffer array structure cannot satisfy throughput constraint.
+Warning: Branch Target Buffer array structure cannot satisfy latency constraint.
+Warning: Global Predictor array structure cannot satisfy throughput constraint.
+Warning: Global Predictor array structure cannot satisfy latency constraint.
+Warning: Predictor Chooser array structure cannot satisfy throughput constraint.
+Warning: Predictor Chooser array structure cannot satisfy latency constraint.
+Warning: dcache array structure cannot satisfy throughput constraint.
+Warning: dcache array structure cannot satisfy latency constraint.
+
+McPAT (version 1.3 of Feb, 2015) results (current print level is 2, please increase print level to see the details in components): 
+*****************************************************************************************
+  Technology 180 nm
+  Interconnect metal projection= aggressive interconnect technology projection
+  Core clock Rate(MHz) 1600
+
+*****************************************************************************************
+Processor: 
+  Area = 311.691 mm^2
+  Peak Power = 103.032 W
+  Total Leakage = 0.143326 W
+  Peak Dynamic = 102.889 W
+  Subthreshold Leakage = 0.139369 W
+  Gate Leakage = 0.00395711 W
+  Runtime Dynamic = 107.599 W
+
+  Total Cores: 1 cores 
+  Device Type= ITRS high performance device type
+    Area = 127.712 mm^2
+    Peak Dynamic = 68.623 W
+    Subthreshold Leakage = 0.0554561 W
+    Gate Leakage = 0.00345586 W
+    Runtime Dynamic = 96.2823 W
+
+  Total L2s: 
+  Device Type= ITRS high performance device type
+    Area = 135.613 mm^2
+    Peak Dynamic = 4.76002 W
+    Subthreshold Leakage = 0.0784831 W
+    Gate Leakage = 0.000175445 W
+    Runtime Dynamic = 6.35901 W
+
+  Total Second Level Directory: 
+  Device Type= ITRS high performance device type
+    Area = 1.67179 mm^2
+    Peak Dynamic = 0.826596 W
+    Subthreshold Leakage = 0.000382801 W
+    Gate Leakage = 3.06958e-05 W
+    Runtime Dynamic = 0.572134 W
+
+  Total NoCs (Network/Bus): 
+  Device Type= ITRS high performance device type
+    Area = 28.9377 mm^2
+    Peak Dynamic = 14.9356 W
+    Subthreshold Leakage = 0.00280385 W
+    Gate Leakage = 0.000158855 W
+    Runtime Dynamic = 2.31478 W
+
+  Total MCs: 2 Memory Controllers 
+  Device Type= ITRS high performance device type
+    Area = 17.7563 mm^2
+    Peak Dynamic = 13.7436 W
+    Subthreshold Leakage = 0.00224319 W
+    Gate Leakage = 0.000136259 W
+    Runtime Dynamic = 2.07121 W
+
+*****************************************************************************************
+Core:
+      Area = 127.712 mm^2
+      Peak Dynamic = 68.623 W
+      Subthreshold Leakage = 0.0554561 W
+      Gate Leakage = 0.00345586 W
+      Runtime Dynamic = 96.2823 W
+
+      Instruction Fetch Unit:
+        Area = 27.2036 mm^2
+        Peak Dynamic = 11.5726 W
+        Subthreshold Leakage = 0.00635173 W
+        Gate Leakage = 0.000348289 W
+        Runtime Dynamic = 13.7456 W
+
+      Renaming Unit:
+        Area = 3.10545 mm^2
+        Peak Dynamic = 11.238 W
+        Subthreshold Leakage = 0.000515523 W
+        Gate Leakage = 6.13515e-05 W
+        Runtime Dynamic = 9.79277 W
+
+      Load Store Unit:
+        Area = 48.6535 mm^2
+        Peak Dynamic = 11.6328 W
+        Subthreshold Leakage = 0.00719447 W
+        Gate Leakage = 0.000429292 W
+        Runtime Dynamic = 37.3917 W
+
+      Memory Management Unit:
+        Area = 10.917 mm^2
+        Peak Dynamic = 3.48893 W
+        Subthreshold Leakage = 0.00171591 W
+        Runtime Dynamic = 9.88012 W
+
+      Execution Unit:
+        Area = 29.3084 mm^2
+        Peak Dynamic = 30.6907 W
+        Subthreshold Leakage = 0.0199822 W
+        Runtime Dynamic = 25.4721 W
+
+*****************************************************************************************
+L2
+      Area = 135.613 mm^2
+      Peak Dynamic = 4.76002 W
+      Subthreshold Leakage = 0.0784831 W
+      Gate Leakage = 0.000175445 W
+      Runtime Dynamic = 6.35901 W
+
+*****************************************************************************************
+Second Level Directory
+      Area = 1.67179 mm^2
+      Peak Dynamic = 0.826596 W
+      Subthreshold Leakage = 0.000382801 W
+      Gate Leakage = 3.06958e-05 W
+      Runtime Dynamic = 0.572134 W
+
+*****************************************************************************************
+Memory Controller:
+      Area = 8.87813 mm^2
+      Peak Dynamic = 6.8718 W
+      Subthreshold Leakage = 0.00112159 W
+      Gate Leakage = 6.81295e-05 W
+      Runtime Dynamic = 2.07121 W
+
+      Front End Engine:
+        Area = 5.24545 mm^2
+        Peak Dynamic = 3.02969 W
+        Subthreshold Leakage = 0.000282187 W
+        Gate Leakage = 1.68325e-05 W
+        Runtime Dynamic = 0.692367 W
+
+      Transaction Engine:
+        Area = 1.50616 mm^2
+        Peak Dynamic = 3.55926 W
+        Subthreshold Leakage = 0.000348029 W
+        Gate Leakage = 2.12684e-05 W
+        Runtime Dynamic = 1.06774 W
+
+      PHY:
+        Area = 2.12653 mm^2
+        Peak Dynamic = 0.282843 W
+        Subthreshold Leakage = 0.000491377 W
+        Gate Leakage = 3.00286e-05 W
+        Runtime Dynamic = 0.311102 W
+
+*****************************************************************************************
+NOC
+      Area = 28.9377 mm^2
+      Peak Dynamic = 14.9356 W
+      Subthreshold Leakage = 0.00280385 W
+      Gate Leakage = 0.000158855 W
+      Runtime Dynamic = 2.31478 W
+
+      Router: 
+        Area = 28.2648 mm^2
+        Peak Dynamic = 7.32833 W
+        Subthreshold Leakage = 0.00189552 W
+        Gate Leakage = 0.000103346 W
+        Runtime Dynamic = 1.0469 W
+
+      Per Router Links: 
+        Area = 0.672964 mm^2
+        Peak Dynamic = 7.60724 W
+        Subthreshold Leakage = 0.000908331 W
+        Gate Leakage = 5.55091e-05 W
+        Runtime Dynamic = 1.26787 W
+
+*****************************************************************************************
