@@ -1,0 +1,121 @@
+Component,Metric,Unit,Value
+Processor,Area,mm^2,6.36523
+Processor,Peak Power,W,6.09086
+Processor,Total Leakage,W,0.00990129
+Processor,Peak Dynamic,W,6.08096
+Processor,Subthreshold Leakage,W,0.00383286
+Processor,Gate Leakage,W,0.00606843
+Processor,Runtime Dynamic,W,11.4345
+ > Total Cores,Area,mm^2,4.62182
+ > Total Cores,Peak Dynamic,W,4.08895
+ > Total Cores,Subthreshold Leakage,W,0.000118092
+ > Total Cores,Gate Leakage,e,3.56923
+ > Total Cores,Runtime Dynamic,W,2.64928
+ > Total First Level Directory,Area,mm^2,0.535391
+ > Total First Level Directory,Peak Dynamic,W,0.045212
+ > Total First Level Directory,Subthreshold Leakage,W,0.00370577
+ > Total First Level Directory,Gate Leakage,W,0.0060234
+ > Total First Level Directory,Runtime Dynamic,W,1.81276
+ > Total NoCs (Network/Bus),Area,mm^2,0.0157396
+ > Total NoCs (Network/Bus),Peak Dynamic,W,0.0506053
+ > Total NoCs (Network/Bus),Subthreshold Leakage,e,4.30636
+ > Total NoCs (Network/Bus),Gate Leakage,e,1.80182
+ > Total NoCs (Network/Bus),Runtime Dynamic,W,0.253027
+ > Total MCs,Area,mm^2,0.529549
+ > Total MCs,Peak Dynamic,W,0.839903
+ > Total MCs,Subthreshold Leakage,e,3.98692
+ > Total MCs,Gate Leakage,e,4.00806
+ > Total MCs,Runtime Dynamic,W,5.98007
+ > Total Flash/SSD Controllers,Area,mm^2,0.109065
+ > Total Flash/SSD Controllers,Peak Dynamic,W,0.0772026
+ > Total Flash/SSD Controllers,Subthreshold Leakage,e,9.17886
+ > Total Flash/SSD Controllers,Gate Leakage,e,1.03273
+ > Total Flash/SSD Controllers,Runtime Dynamic,W,0.0540419
+ > Total NIUs,Area,mm^2,0.261302
+ > Total NIUs,Peak Dynamic,W,0.424497
+ > Total NIUs,Subthreshold Leakage,e,1.28341
+ > Total NIUs,Gate Leakage,e,1.44399
+ > Total NIUs,Runtime Dynamic,W,0.297148
+ > Total PCIes,Area,mm^2,0.292355
+ > Total PCIes,Peak Dynamic,W,0.55459
+ > Total PCIes,Subthreshold Leakage,e,2.37999
+ > Total PCIes,Gate Leakage,e,2.67777
+ > Total PCIes,Runtime Dynamic,W,0.388213
+Core,Area,mm^2,2.31091
+Core,Peak Dynamic,W,2.04447
+Core,Subthreshold Leakage,e,5.9046
+Core,Gate Leakage,e,1.78462
+Core,Runtime Dynamic,W,2.64928
+ > Instruction Fetch Unit,Area,mm^2,0.503917
+ > Instruction Fetch Unit,Peak Dynamic,W,0.864934
+ > Instruction Fetch Unit,Subthreshold Leakage,e,1.0123
+ > Instruction Fetch Unit,Gate Leakage,e,1.9218
+ > Instruction Fetch Unit,Runtime Dynamic,W,0.792251
+ > Renaming Unit,Area,mm^2,0.0183559
+ > Renaming Unit,Peak Dynamic,W,0.055421
+ > Renaming Unit,Subthreshold Leakage,e,1.52586
+ > Renaming Unit,Gate Leakage,e,9.23829
+ > Renaming Unit,Runtime Dynamic,W,0.0997303
+ > Load Store Unit,Area,mm^2,0.278292
+ > Load Store Unit,Peak Dynamic,W,0.201892
+ > Load Store Unit,Subthreshold Leakage,e,7.04414
+ > Load Store Unit,Gate Leakage,e,1.52914
+ > Load Store Unit,Runtime Dynamic,W,0.38962
+ > Memory Management Unit,Area,mm^2,0.0236069
+ > Memory Management Unit,Peak Dynamic,W,0.0336317
+ > Memory Management Unit,Subthreshold Leakage,e,5.21243
+ > Memory Management Unit,Runtime Dynamic,W,0.116268
+ > Execution Unit,Area,mm^2,1.42687
+ > Execution Unit,Peak Dynamic,W,0.888595
+ > Execution Unit,Subthreshold Leakage,e,3.87997
+ > Execution Unit,Runtime Dynamic,W,1.25141
+First Level Directory,Area,mm^2,0.267696
+First Level Directory,Peak Dynamic,W,0.022606
+First Level Directory,Subthreshold Leakage,W,0.00185288
+First Level Directory,Gate Leakage,W,0.0030117
+First Level Directory,Runtime Dynamic,W,1.81276
+Memory Controller,Area,mm^2,0.529549
+Memory Controller,Peak Dynamic,W,0.839903
+Memory Controller,Subthreshold Leakage,e,3.98692
+Memory Controller,Gate Leakage,e,4.00806
+Memory Controller,Runtime Dynamic,W,5.98007
+ > Front End Engine,Area,mm^2,0.086813
+ > Front End Engine,Peak Dynamic,W,0.0711239
+ > Front End Engine,Subthreshold Leakage,e,6.40055
+ > Front End Engine,Gate Leakage,e,2.42448
+ > Front End Engine,Runtime Dynamic,W,0.481267
+ > Transaction Engine,Area,mm^2,0.113609
+ > Transaction Engine,Peak Dynamic,W,0.412634
+ > Transaction Engine,Subthreshold Leakage,e,6.69373
+ > Transaction Engine,Gate Leakage,e,7.53123
+ > Transaction Engine,Runtime Dynamic,W,2.79213
+ > PHY,Area,mm^2,0.329127
+ > PHY,Peak Dynamic,W,0.356145
+ > PHY,Subthreshold Leakage,e,2.67749
+ > PHY,Gate Leakage,e,3.01249
+ > PHY,Runtime Dynamic,W,2.70667
+Flash Controller,Area,mm^2,0.109065
+Flash Controller,Peak Dynamic,W,0.0772026
+Flash Controller,Subthreshold Leakage,e,9.17886
+Flash Controller,Gate Leakage,e,1.03273
+Flash Controller,Runtime Dynamic,W,0.0540419
+NIU,Area,mm^2,0.261302
+NIU,Peak Dynamic,W,0.424497
+NIU,Subthreshold Leakage,e,1.28341
+NIU,Gate Leakage,e,1.44399
+NIU,Runtime Dynamic,W,0.297148
+PCIe,Area,mm^2,0.292355
+PCIe,Peak Dynamic,W,0.55459
+PCIe,Subthreshold Leakage,e,2.37999
+PCIe,Gate Leakage,e,2.67777
+PCIe,Runtime Dynamic,W,0.388213
+BUSES,Area,mm^2,0.0157396
+BUSES,Peak Dynamic,W,0.0506053
+BUSES,Subthreshold Leakage,e,4.30636
+BUSES,Gate Leakage,e,1.80182
+BUSES,Runtime Dynamic,W,0.253027
+ > Bus,Area,mm^2,0.0157396
+ > Bus,Peak Dynamic,W,0.0506053
+ > Bus,Subthreshold Leakage,e,4.30636
+ > Bus,Gate Leakage,e,1.80182
+ > Bus,Runtime Dynamic,W,0.253027

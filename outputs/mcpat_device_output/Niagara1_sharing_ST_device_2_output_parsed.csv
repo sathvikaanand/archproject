@@ -1,0 +1,91 @@
+Component,Metric,Unit,Value
+Processor,Area,mm^2,366.782
+Processor,Peak Power,W,136.774
+Processor,Total Leakage,W,44.3229
+Processor,Peak Dynamic,W,92.4515
+Processor,Subthreshold Leakage,W,43.9446
+Processor,Subthreshold Leakage with power gating,W,20.7479
+Processor,Gate Leakage,W,0.37833
+Processor,Runtime Dynamic,W,76.1686
+ > Total Cores,Area,mm^2,102.802
+ > Total Cores,Peak Dynamic,W,31.2152
+ > Total Cores,Subthreshold Leakage,W,15.7861
+ > Total Cores,Subthreshold Leakage with power gating,W,7.18291
+ > Total Cores,Gate Leakage,W,0.11591
+ > Total Cores,Runtime Dynamic,W,3.73996
+ > Total L2s,Area,mm^2,162.449
+ > Total L2s,Peak Dynamic,W,22.3605
+ > Total L2s,Subthreshold Leakage,W,9.80658
+ > Total L2s,Subthreshold Leakage with power gating,W,5.3988
+ > Total L2s,Gate Leakage,W,0.100222
+ > Total L2s,Runtime Dynamic,W,0.691017
+ > Total Second Level Directory,Area,mm^2,49.0405
+ > Total Second Level Directory,Peak Dynamic,W,23.479
+ > Total Second Level Directory,Subthreshold Leakage,W,3.1317
+ > Total Second Level Directory,Subthreshold Leakage with power gating,W,1.40926
+ > Total Second Level Directory,Gate Leakage,W,0.034322
+ > Total Second Level Directory,Runtime Dynamic,W,69.8371
+ > Total NoCs (Network/Bus),Area,mm^2,52.4909
+ > Total NoCs (Network/Bus),Peak Dynamic,W,15.3968
+ > Total NoCs (Network/Bus),Subthreshold Leakage,W,15.2202
+ > Total NoCs (Network/Bus),Subthreshold Leakage with power gating,W,6.75695
+ > Total NoCs (Network/Bus),Gate Leakage,W,0.127876
+ > Total NoCs (Network/Bus),Runtime Dynamic,W,1.90055
+Core,Area,mm^2,1.60627
+Core,Peak Dynamic,W,0.487738
+Core,Subthreshold Leakage,W,0.246658
+Core,Subthreshold Leakage with power gating,W,0.112233
+Core,Gate Leakage,W,0.0018111
+Core,Runtime Dynamic,W,3.73996
+ > Instruction Fetch Unit,Area,mm^2,0.36299
+ > Instruction Fetch Unit,Peak Dynamic,W,0.141604
+ > Instruction Fetch Unit,Subthreshold Leakage,W,0.0453003
+ > Instruction Fetch Unit,Subthreshold Leakage with power gating,W,0.0209642
+ > Instruction Fetch Unit,Gate Leakage,W,0.000406203
+ > Instruction Fetch Unit,Runtime Dynamic,W,0.644334
+ > Load Store Unit,Area,mm^2,0.104376
+ > Load Store Unit,Peak Dynamic,W,0.0455522
+ > Load Store Unit,Subthreshold Leakage,W,0.0149489
+ > Load Store Unit,Subthreshold Leakage with power gating,W,0.00708902
+ > Load Store Unit,Gate Leakage,W,0.000120836
+ > Load Store Unit,Runtime Dynamic,W,0.443634
+ > Memory Management Unit,Area,mm^2,0.0839686
+ > Memory Management Unit,Peak Dynamic,W,0.0275868
+ > Memory Management Unit,Subthreshold Leakage,W,0.0107849
+ > Memory Management Unit,Subthreshold Leakage with power gating,W,0.0048532
+ > Memory Management Unit,Runtime Dynamic,W,0.731681
+ > Execution Unit,Area,mm^2,0.262056
+ > Execution Unit,Peak Dynamic,W,0.272995
+ > Execution Unit,Subthreshold Leakage,W,0.0598241
+ > Execution Unit,Subthreshold Leakage with power gating,W,0.0272167
+ > Execution Unit,Runtime Dynamic,W,1.92031
+L2,Area,mm^2,2.53827
+L2,Peak Dynamic,W,0.349383
+L2,Subthreshold Leakage,W,0.153228
+L2,Subthreshold Leakage with power gating,W,0.0843563
+L2,Gate Leakage,W,0.00156597
+L2,Runtime Dynamic,W,0.691017
+Second Level Directory,Area,mm^2,49.0405
+Second Level Directory,Peak Dynamic,W,23.479
+Second Level Directory,Subthreshold Leakage,W,3.1317
+Second Level Directory,Subthreshold Leakage with power gating,W,1.40926
+Second Level Directory,Gate Leakage,W,0.034322
+Second Level Directory,Runtime Dynamic,W,69.8371
+NOC,Area,mm^2,52.4909
+NOC,Peak Dynamic,W,15.3968
+NOC,Subthreshold Leakage,W,15.2202
+NOC,Subthreshold Leakage with power gating,W,6.75695
+NOC,Gate Leakage,W,0.127876
+NOC,Runtime Dynamic,W,1.90055
+ > Router,Area,mm^2,0.581351
+ > Router,Peak Dynamic,W,0.147011
+ > Router,Subthreshold Leakage,W,0.200725
+ > Router,Subthreshold Leakage with power gating,W,0.0888865
+ > Router,Gate Leakage,W,0.00175311
+ > Router,Runtime Dynamic,W,1.05848
+ > Per Router Links,Area,mm^2,0.23882
+ > Per Router Links,Peak Dynamic,W,0.0935633
+ > Per Router Links,Subthreshold Leakage,W,0.0370907
+ > Per Router Links,Subthreshold Leakage with power gating,W,0.0166908
+ > Per Router Links,Gate Leakage,W,0.000244941
+ > Per Router Links,Runtime Dynamic,W,0.842069

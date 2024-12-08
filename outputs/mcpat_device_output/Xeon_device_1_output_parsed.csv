@@ -1,0 +1,85 @@
+Component,Metric,Unit,Value
+Processor,Area,mm^2,409.734
+Processor,Peak Power,W,133.158
+Processor,Total Leakage,W,16.6691
+Processor,Peak Dynamic,W,116.489
+Processor,Subthreshold Leakage,W,16.4553
+Processor,Subthreshold Leakage with power gating,W,8.84067
+Processor,Gate Leakage,W,0.21384
+Processor,Runtime Dynamic,W,87.7283
+ > Total Cores,Area,mm^2,110.968
+ > Total Cores,Peak Dynamic,W,90.0521
+ > Total Cores,Subthreshold Leakage,W,5.47291
+ > Total Cores,Subthreshold Leakage with power gating,W,2.77407
+ > Total Cores,Gate Leakage,W,0.0480418
+ > Total Cores,Runtime Dynamic,W,63.6695
+ > Total L3s,Area,mm^2,293.281
+ > Total L3s,Peak Dynamic,W,6.70159
+ > Total L3s,Subthreshold Leakage,W,10.9824
+ > Total L3s,Subthreshold Leakage with power gating,W,6.06659
+ > Total L3s,Gate Leakage,W,0.165767
+ > Total L3s,Runtime Dynamic,W,4.32382
+ > Total NoCs (Network/Bus),Area,mm^2,5.48522
+ > Total NoCs (Network/Bus),Peak Dynamic,W,19.735
+ > Total NoCs (Network/Bus),Subthreshold Leakage,e,2.8338
+ > Total NoCs (Network/Bus),Subthreshold Leakage with power gating,e,1.27521
+ > Total NoCs (Network/Bus),Gate Leakage,e,3.12434
+ > Total NoCs (Network/Bus),Runtime Dynamic,W,19.735
+Core,Area,mm^2,55.4839
+Core,Peak Dynamic,W,45.026
+Core,Subthreshold Leakage,W,2.73645
+Core,Subthreshold Leakage with power gating,W,1.38704
+Core,Gate Leakage,W,0.0240209
+Core,Runtime Dynamic,W,63.6695
+ > Instruction Fetch Unit,Area,mm^2,8.30378
+ > Instruction Fetch Unit,Peak Dynamic,W,6.64494
+ > Instruction Fetch Unit,Subthreshold Leakage,W,0.000352559
+ > Instruction Fetch Unit,Subthreshold Leakage with power gating,W,0.000168447
+ > Instruction Fetch Unit,Gate Leakage,W,0.000199085
+ > Instruction Fetch Unit,Runtime Dynamic,W,9.74499
+ > Renaming Unit,Area,mm^2,0.579501
+ > Renaming Unit,Peak Dynamic,W,3.83222
+ > Renaming Unit,Subthreshold Leakage,e,2.53009
+ > Renaming Unit,Subthreshold Leakage with power gating,e,1.11607
+ > Renaming Unit,Gate Leakage,e,4.2089
+ > Renaming Unit,Runtime Dynamic,W,5.38801
+ > Load Store Unit,Area,mm^2,4.29645
+ > Load Store Unit,Peak Dynamic,W,4.80156
+ > Load Store Unit,Subthreshold Leakage,W,0.000117596
+ > Load Store Unit,Subthreshold Leakage with power gating,e,5.29104
+ > Load Store Unit,Gate Leakage,e,9.96331
+ > Load Store Unit,Runtime Dynamic,W,6.39125
+ > Memory Management Unit,Area,mm^2,0.779601
+ > Memory Management Unit,Peak Dynamic,W,1.37535
+ > Memory Management Unit,Subthreshold Leakage,e,3.59201
+ > Memory Management Unit,Subthreshold Leakage with power gating,e,1.55175
+ > Memory Management Unit,Runtime Dynamic,W,4.24359
+ > Execution Unit,Area,mm^2,16.4489
+ > Execution Unit,Peak Dynamic,W,25.2064
+ > Execution Unit,Subthreshold Leakage,W,0.000932861
+ > Execution Unit,Subthreshold Leakage with power gating,W,0.00040556
+ > Execution Unit,Runtime Dynamic,W,30.6709
+,Area,mm^2,16.0033
+,Peak Dynamic,W,3.16559
+,Subthreshold Leakage,W,2.73387
+,Subthreshold Leakage with power gating,W,1.3859
+,Gate Leakage,W,0.0221925
+,Runtime Dynamic,W,7.23071
+,Area,mm^2,293.281
+,Peak Dynamic,W,6.70159
+,Subthreshold Leakage,W,10.9824
+,Subthreshold Leakage with power gating,W,6.06659
+,Gate Leakage,W,0.165767
+,Runtime Dynamic,W,4.32382
+BUSES,Area,mm^2,5.48522
+BUSES,Peak Dynamic,W,19.735
+BUSES,Subthreshold Leakage,e,2.8338
+BUSES,Subthreshold Leakage with power gating,e,1.27521
+BUSES,Gate Leakage,e,3.12434
+BUSES,Runtime Dynamic,W,19.735
+ > Bus,Area,mm^2,5.48522
+ > Bus,Peak Dynamic,W,19.735
+ > Bus,Subthreshold Leakage,e,2.8338
+ > Bus,Subthreshold Leakage with power gating,e,1.27521
+ > Bus,Gate Leakage,e,3.12434
+ > Bus,Runtime Dynamic,W,19.735
